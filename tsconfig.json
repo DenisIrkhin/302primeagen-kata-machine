@@ -14,7 +14,8 @@
             "@code/*": [
                 "day1/*"
             ]
-        }
+        },
+        "types": ["bun-types"]
     },
     "include": [
         "./src/**/*"

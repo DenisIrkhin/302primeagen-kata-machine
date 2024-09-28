@@ -21,6 +21,7 @@
         "day": "echo src/day1"
     },
     "devDependencies": {
-        "@swc-node/register": "^1.6.7"
+        "@swc-node/register": "^1.6.7",
+        "@types/bun": "^1.1.10"
     }
 }
