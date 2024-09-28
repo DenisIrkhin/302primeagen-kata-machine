@@ -61,7 +61,7 @@ function shift_arr(count: number) {
     };
 }
 
-const tests = [10, 100, 1000, 10000, 100000, 1_000_000, 10_000_000];
+const tests = [10, 100, 1000, 10000, 100000, 1_000_000, 10_000_000, 100_000_000];
 console.log("Testing get");
 tests.forEach(t => {
     a.length = 0;
